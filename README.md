@@ -186,7 +186,7 @@ This project was developed collaboratively by a team, with each member contribut
 * **Yash Parashar** – Feature Development, UI Implementation, Testing, and Bug Fixes.
 * **Abhay Mahawar** – Module Development, Database Support, Documentation, and Quality Assurance.
 
-We worked together using GitHub for version control, coordinated development efforts, and ensured seamless integration of all modules to build a complete Restaurant POS & Inventory Management System.
+We worked together using GitHub for version control, coordinated development efforts, and ensured seamless integration of all modules to build a complete Restaurant POS & Inventory Management System...
 
 
 
