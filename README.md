@@ -1,7 +1,7 @@
 # 🍽 Restaurant POS v1.0
 ### Professional Restaurant Billing & Management System
-Developed by **Manas Suryavanshi, Yash Parashar, and Abhay Mahawar**
 **VB.NET | Visual Studio 2026 (18.6.2) | .NET 10 (net10.0-windows) | SQL Server LocalDB**
+Developed by **Manas Suryavanshi, Yash Parashar, and Abhay Mahawar**
 
 ---
 
