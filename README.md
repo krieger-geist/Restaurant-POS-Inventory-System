@@ -1,7 +1,9 @@
 # 🍽 Restaurant POS v1.0
 ### Professional Restaurant Billing & Management System
-Developed by **Manas Suryavanshi, Yash Parashar, and Abhay Mahawar**
 **VB.NET | Visual Studio 2026 (18.6.2) | .NET 10 (net10.0-windows) | SQL Server LocalDB**
+
+Developed by **Manas Suryavanshi, Yash Parashar, and Abhay Mahawar**
+
 
 ---
 
@@ -184,7 +186,7 @@ This project was developed collaboratively by a team, with each member contribut
 * **Yash Parashar** – Feature Development, UI Implementation, Testing, and Bug Fixes.
 * **Abhay Mahawar** – Module Development, Database Support, Documentation, and Quality Assurance.
 
-We worked together using GitHub for version control, coordinated development efforts, and ensured seamless integration of all modules to build a complete Restaurant POS & Inventory Management System.
+We worked together using GitHub for version control, coordinated development efforts, and ensured seamless integration of all modules to build a complete Restaurant POS & Inventory Management System...
 
 
 
