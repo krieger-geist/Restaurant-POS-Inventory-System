@@ -1,4 +1,4 @@
-# 🍽 Restaurant POS v1.0
+# 🍽 Restaurant-POS-Inventory-System
 ### Professional Restaurant Billing & Management System
 **VB.NET | Visual Studio 2026 (18.6.2) | .NET 10 (net10.0-windows) | SQL Server LocalDB**
 
